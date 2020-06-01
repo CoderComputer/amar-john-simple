@@ -1,5 +1,6 @@
-.shop-container{
+.shop-remove-container{
     display: flex;
+    margin-left: 200px;
 }
 .product-container{
     width: 70%;
